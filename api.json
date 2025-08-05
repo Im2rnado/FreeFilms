@@ -1,0 +1,1198 @@
+{
+    "success": true,
+    "hero": {
+        "id": 426063,
+        "title": "Nosferatu",
+        "description": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+        "logo": "https://image.tmdb.org/t/p/w500/10U71yEca6DfFqpIAkXSWo4msI5.png",
+        "backdrop": "https://image.tmdb.org/t/p/original/h7r6LZ32dgLwtwSW3CxoWIYD9pr.jpg"
+    },
+    "collections": [
+        {
+            "title": "Trending Movies",
+            "data": [
+                {
+                    "id": 950396,
+                    "title": "The Gorge",
+                    "poster_path": "/6xuPvqv8VAsXXACCwLjUgsIDe05.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 1126166,
+                    "title": "Flight Risk",
+                    "poster_path": "/4cR3hImKd78dSs652PAkSAyJ5Cx.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 822119,
+                    "title": "Captain America: Brave New World",
+                    "poster_path": "/pzIddUEMWhWzfvLI3TwxUG2wGoi.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 1294203,
+                    "title": "My Fault: London",
+                    "poster_path": "/ttN5D6GKOwKWHmCzDGctAvaNMAi.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 1272149,
+                    "title": "Bridget Jones: Mad About the Boy",
+                    "poster_path": "/taEVBdVSqYo9YeN3ycw2SosklZL.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 516729,
+                    "title": "Paddington in Peru",
+                    "poster_path": "/rzfqeLdHIysJGrspMICyedpqDqt.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 426063,
+                    "title": "Nosferatu",
+                    "poster_path": "/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 799766,
+                    "title": "Better Man",
+                    "poster_path": "/fbGCmMp0HlYnAPv28GOENPShezM.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 1203329,
+                    "title": "The Witcher: Sirens of the Deep",
+                    "poster_path": "/y0pR5aBVvPn5uncaZjl94ZEnuEF.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 939243,
+                    "title": "Sonic the Hedgehog 3",
+                    "poster_path": "/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 402431,
+                    "title": "Wicked",
+                    "poster_path": "/xDGbZ0JJ3mYaGKy4Nzd9Kph6M9L.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 1064213,
+                    "title": "Anora",
+                    "poster_path": "/7MrgIUeq0DD2iF7GR6wqJfYZNeC.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 1252377,
+                    "title": "La Dolce Villa",
+                    "poster_path": "/sEma5RN8aZ5Yu2Dkefyn5ULdlc1.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 1082195,
+                    "title": "The Order",
+                    "poster_path": "/r3BPhDb45sy87kNV41Q1TwCL6BS.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 980477,
+                    "title": "Ne Zha 2",
+                    "poster_path": "/293Mo4GWf7Tl0TfAr5NFghqeMy7.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 933260,
+                    "title": "The Substance",
+                    "poster_path": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 959604,
+                    "title": "Beating Hearts",
+                    "poster_path": "/yu9dRyKcUHTfKcqsomUtpord4t3.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 1241982,
+                    "title": "Moana 2",
+                    "poster_path": "/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 710295,
+                    "title": "Wolf Man",
+                    "poster_path": "/jTPBMPTgk9zOUGSkWcoOGbX8cTi.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 549509,
+                    "title": "The Brutalist",
+                    "poster_path": "/lKkWcdqDEPEMVmLxRJGwJxJp5XB.jpg",
+                    "media_type": "movie"
+                }
+            ]
+        },
+        {
+            "title": "Trending TV Shows",
+            "data": [
+                {
+                    "id": 95396,
+                    "title": "Severance",
+                    "poster_path": "/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 77169,
+                    "title": "Cobra Kai",
+                    "poster_path": "/6GDW4EsgsXlYrL1ASb5eCHQK4er.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 127532,
+                    "title": "Solo Leveling",
+                    "poster_path": "/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 219937,
+                    "title": "Dexter: Original Sin",
+                    "poster_path": "/j5bP7spdfS0NpDLKDlqJYyJPi1j.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 117488,
+                    "title": "Yellowjackets",
+                    "poster_path": "/bYr4kBf26aa1eEtOnOLpjDmKPVX.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 243964,
+                    "title": "Melo Movie",
+                    "poster_path": "/iEVOYk8eoMdCLFrNXtRSyqVM20c.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 37854,
+                    "title": "One Piece",
+                    "poster_path": "/cMD9Ygz11zjJzAovURpO75Qg7rT.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 95557,
+                    "title": "INVINCIBLE",
+                    "poster_path": "/jBn4LWlgdsf6xIUYhYBwpctBVsj.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 233742,
+                    "title": "Newtopia",
+                    "poster_path": "/hP9bsI2B7HONwDrzoNw5Q3QJMqU.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 1399,
+                    "title": "Game of Thrones",
+                    "poster_path": "/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 248982,
+                    "title": "Cassandra",
+                    "poster_path": "/vPYNYzgvO43X3563mK7sqjJqPEh.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 93405,
+                    "title": "Squid Game",
+                    "poster_path": "/1QdXdRYfktUSONkl1oD5gc6Be0s.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 245927,
+                    "title": "Paradise",
+                    "poster_path": "/m4Rcp33FyrXPyZ2dJ2gmzdsACdw.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 456,
+                    "title": "The Simpsons",
+                    "poster_path": "/vHqeLzYl3dEAutojCO26g0LIkom.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 60572,
+                    "title": "Pokémon",
+                    "poster_path": "/rOuGm07PxBhEsK9TaGPRQVJQm1X.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 111803,
+                    "title": "The White Lotus",
+                    "poster_path": "/jNFcfgLFPhCZdhUUmwjHvq6TLxh.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 207332,
+                    "title": "SAKAMOTO DAYS",
+                    "poster_path": "/wRpCqsJFyKNuh5FMegNPrhzp2NF.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 1668,
+                    "title": "Friends",
+                    "poster_path": "/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 60715,
+                    "title": "Bref",
+                    "poster_path": "/alaRcixeZ1lLVb5NuvmJnAsfbyA.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 226637,
+                    "title": "High Potential",
+                    "poster_path": "/ylTZ6bfmPrwUz01A0VpvluGFWsv.jpg",
+                    "media_type": "tv"
+                }
+            ]
+        },
+        {
+            "title": "Top Rated Movies",
+            "data": [
+                {
+                    "id": 278,
+                    "title": "The Shawshank Redemption",
+                    "poster_path": "/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 238,
+                    "title": "The Godfather",
+                    "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 240,
+                    "title": "The Godfather Part II",
+                    "poster_path": "/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 424,
+                    "title": "Schindler's List",
+                    "poster_path": "/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 389,
+                    "title": "12 Angry Men",
+                    "poster_path": "/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 129,
+                    "title": "Spirited Away",
+                    "poster_path": "/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 19404,
+                    "title": "Dilwale Dulhania Le Jayenge",
+                    "poster_path": "/lfRkUr7DYdHldAqi3PwdQGBRBPM.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 155,
+                    "title": "The Dark Knight",
+                    "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 497,
+                    "title": "The Green Mile",
+                    "poster_path": "/o0lO84GI7qrG6XFvtsPOSV7CTNa.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 496243,
+                    "title": "Parasite",
+                    "poster_path": "/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 680,
+                    "title": "Pulp Fiction",
+                    "poster_path": "/jYqKxBbAUdfKq3BfHKivJytFiPL.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 372058,
+                    "title": "Your Name.",
+                    "poster_path": "/q719jXXEzOoYaps6babgKnONONX.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 122,
+                    "title": "The Lord of the Rings: The Return of the King",
+                    "poster_path": "/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 13,
+                    "title": "Forrest Gump",
+                    "poster_path": "/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 429,
+                    "title": "The Good, the Bad and the Ugly",
+                    "poster_path": "/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 769,
+                    "title": "GoodFellas",
+                    "poster_path": "/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 346,
+                    "title": "Seven Samurai",
+                    "poster_path": "/ApdijpVm1GNV9BQMOsGcAXq4gEB.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 157336,
+                    "title": "Interstellar",
+                    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 12477,
+                    "title": "Grave of the Fireflies",
+                    "poster_path": "/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 637,
+                    "title": "Life Is Beautiful",
+                    "poster_path": "/74hLDKjD5aGYOotO6esUVaeISa2.jpg",
+                    "media_type": "movie"
+                }
+            ]
+        },
+        {
+            "title": "Top Rated TV Shows",
+            "data": [
+                {
+                    "id": 131378,
+                    "title": "Adventure Time: Fionna & Cake",
+                    "poster_path": "/fi1b6U1kp73xheECzqwzMn8u3mX.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 1396,
+                    "title": "Breaking Bad",
+                    "poster_path": "/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 94605,
+                    "title": "Arcane",
+                    "poster_path": "/fqldf2t8ztc9aiwn3k6mlX3tvRT.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 94954,
+                    "title": "Hazbin Hotel",
+                    "poster_path": "/rXojaQcxVUubPLSrFV8PD4xdjrs.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 209867,
+                    "title": "Frieren: Beyond Journey's End",
+                    "poster_path": "/dqZENchTd7lp5zht7BdlqM7RBhD.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 240411,
+                    "title": "Dan Da Dan",
+                    "poster_path": "/6qfZAOEUFIrbUH3JvePclx1nXzz.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 246,
+                    "title": "Avatar: The Last Airbender",
+                    "poster_path": "/v2vn1coUMPKw0GI1KGC5J4IXtqp.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 37854,
+                    "title": "One Piece",
+                    "poster_path": "/cMD9Ygz11zjJzAovURpO75Qg7rT.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 220542,
+                    "title": "The Apothecary Diaries",
+                    "poster_path": "/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 60059,
+                    "title": "Better Call Saul",
+                    "poster_path": "/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 60625,
+                    "title": "Rick and Morty",
+                    "poster_path": "/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 31911,
+                    "title": "Fullmetal Alchemist: Brotherhood",
+                    "poster_path": "/5ZFUEOULaVml7pQuXxhpR2SmVUw.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 259666,
+                    "title": "No One Will Miss Us",
+                    "poster_path": "/py0s87C9214KRbZ4kWLQfgsE9ET.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 87108,
+                    "title": "Chernobyl",
+                    "poster_path": "/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 70785,
+                    "title": "Anne with an E",
+                    "poster_path": "/6P6tXhjT5tK3qOXzxF9OMLlG7iz.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 1429,
+                    "title": "Attack on Titan",
+                    "poster_path": "/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 74313,
+                    "title": "Blue Planet II",
+                    "poster_path": "/j1NsoYYDYHnPkRr7Enqr8tlexgO.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 42705,
+                    "title": "Fighting Spirit",
+                    "poster_path": "/1LApB9C9kEkh2ZU2vzAhurNDipl.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 92685,
+                    "title": "The Owl House",
+                    "poster_path": "/zqjSex7DZn7p4dU7mMktdJ8zQV5.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 85937,
+                    "title": "Demon Slayer: Kimetsu no Yaiba",
+                    "poster_path": "/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
+                    "media_type": "tv"
+                }
+            ]
+        },
+        {
+            "title": "Yassin's Picks",
+            "data": [
+                {
+                    "id": 238,
+                    "title": "The Godfather",
+                    "poster_path": "/d6LbJZO8ruvXgOjjGRgjtdYpJS4.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 27554,
+                    "title": "The Panic In Needle Park",
+                    "poster_path": "/rhJ8Dnl6Z9KR9R2zskBKIfrFeFs.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 314385,
+                    "title": "By The Sea",
+                    "poster_path": "/oEyeG4UyAQvYIJiFpUV57Q3PTDp.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 586791,
+                    "title": "Litle Fish",
+                    "poster_path": "/8AYQ7vyUI2HVLEKH7niFvJ1AdZp.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 674324,
+                    "title": "The Banshees of Inisherin",
+                    "poster_path": "/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 769,
+                    "title": "Goodfellas",
+                    "poster_path": "/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 334541,
+                    "title": "Manchester By The Sea",
+                    "poster_path": "/e8daDzP0vFOnGyKmve95Yv0D0io.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 451915,
+                    "title": "Beautiful Boy",
+                    "poster_path": "/u2Gfv0mz3xePsgyCPHovrnFL1sB.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 76,
+                    "title": "Before Sunrise",
+                    "poster_path": "/kf1Jb1c2JAOqjuzA3H4oDM263uB.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 51621,
+                    "title": "Good Will Hunting",
+                    "poster_path": "/bABCBKYBK7A5G1x0FzoeoNfuj2.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 46738,
+                    "title": "Incendies",
+                    "poster_path": "/i5GsLIII66LubmOai65cWiB4kZq.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 38,
+                    "title": "Eternal Sunshine of the Spotless Mind",
+                    "poster_path": "/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 640,
+                    "title": "Catch me if you can",
+                    "poster_path": "/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 37799,
+                    "title": "The Social Network",
+                    "poster_path": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 89905,
+                    "title": "Normal People",
+                    "poster_path": "/tbKSsFd4ImzUgbYolttkq4pmOPQ.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 381283,
+                    "title": "mother!",
+                    "poster_path": "/qQ69kTStBSj5yK6kse1bzF8MTjP.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 73,
+                    "title": "American History X",
+                    "poster_path": "/euypWkaYFOLW3e5rLIcTAjWnhhT.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 9475,
+                    "title": "Scent of a Woman",
+                    "poster_path": "/ip3HL5H65pYjWbkwX9aLApDdGI3.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 533444,
+                    "title": "Waves",
+                    "poster_path": "/3xbjL0z8iH8e8L3USyeKGQrBfuZ.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 406,
+                    "title": "La Haine",
+                    "poster_path": "/f37UqJ9aJtilApJV4J7N3n9vo3Y.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 103,
+                    "title": "Taxi Driver",
+                    "poster_path": "/ekstpH614fwDX8DUln1a2Opz0N8.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 641,
+                    "title": "Requiem for a dream",
+                    "poster_path": "/sJssp5jUPtCAyI3Bguz5YXUGe7Q.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 210577,
+                    "title": "Gone Girl",
+                    "poster_path": "/lv5xShBIDPe7m4ufdlV0IAc7Avk.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 122906,
+                    "title": "About Time",
+                    "poster_path": "/iR1bVfURbN7r1C46WHFbwCkVve.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 106646,
+                    "title": "The Wolf of Wall Street",
+                    "poster_path": "/34m2tygAYBGqA9MXKhRDtzYd4MR.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 807,
+                    "title": "Se7en",
+                    "poster_path": "/oPxI2XvR7aPNElRUIQdgkj27sHs.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 244786,
+                    "title": "Whiplash",
+                    "poster_path": "/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 399057,
+                    "title": "The Killing of a sacred deer",
+                    "poster_path": "/e4DGlsc9g0h5AyoyvvAuIRnofN7.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 142,
+                    "title": "Brokeback Mountain",
+                    "poster_path": "/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 1592,
+                    "title": "Primal Fear",
+                    "poster_path": "/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 8967,
+                    "title": "The tree of life",
+                    "poster_path": "/eGd9TelfedrKAJqv7wkRdgLJ6i2.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 492188,
+                    "title": "Marriage Story",
+                    "poster_path": "/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 43347,
+                    "title": "Love & Other Drugs",
+                    "poster_path": "/wZLM2uKJRYNchLmiCIjosX0rXy8.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 791177,
+                    "title": "Bones and All",
+                    "poster_path": "/ayfr4iL0jVV9mquN7SKvjOidvRH.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 1265,
+                    "title": "Bridge To Terebethia",
+                    "poster_path": "/3xFxGodKPMFLheS8rujFSmLfcq4.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 76331,
+                    "title": "Succession",
+                    "poster_path": "/gwCHn2zXHjtMNQYxAsoQs76B5Oa.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 112077,
+                    "title": "Scenes From a Marriage",
+                    "poster_path": "/wlsivaJuU6HScCFKcgv1cgtdmQt.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 1396,
+                    "title": "Breaking Bad",
+                    "poster_path": "/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 78191,
+                    "title": "You",
+                    "poster_path": "/7bEYwjUvlJW7GerM8GYmqwl4oS3.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 67744,
+                    "title": "Mindhunter",
+                    "poster_path": "/fbKE87mojpIETWepSbD5Qt741fp.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 136315,
+                    "title": "The Bear",
+                    "poster_path": "/iuw0iFJsteckSjup3vauyltELll.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 37680,
+                    "title": "Suits",
+                    "poster_path": "/vQiryp6LioFxQThywxbC6TuoDjy.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 61222,
+                    "title": "Bojack Horseman",
+                    "poster_path": "/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg",
+                    "media_type": "tv"
+                }
+            ]
+        },
+        {
+            "title": "Ali's Picks",
+            "data": [
+                {
+                    "id": 16869,
+                    "media_type": "movie",
+                    "poster_path": "/7sfbEnaARXDDhKm0CZ7D7uc2sbo.jpg",
+                    "title": "Inglorious Basterds"
+                },
+                {
+                    "id": 1124,
+                    "media_type": "movie",
+                    "poster_path": "/tRNlZbgNCNOpLpbPEz5L8G8A0JN.jpg",
+                    "title": "The Prestige"
+                },
+                {
+                    "id": 752,
+                    "media_type": "movie",
+                    "poster_path": "/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg",
+                    "title": "V for Vendetta"
+                },
+                {
+                    "id": 530915,
+                    "media_type": "movie",
+                    "poster_path": "/iZf0KyrE25z1sage4SYFLCCrMi9.jpg",
+                    "title": "1917"
+                },
+                {
+                    "id": 591538,
+                    "media_type": "movie",
+                    "poster_path": "/tDNJEhcLbX3jIk3BMCur9pCdaVD.jpg",
+                    "title": "The tragedy of macbeth"
+                },
+                {
+                    "id": 197,
+                    "media_type": "movie",
+                    "poster_path": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
+                    "title": "Braveheart"
+                },
+                {
+                    "id": 152601,
+                    "media_type": "movie",
+                    "poster_path": "/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg",
+                    "title": "Her"
+                },
+                {
+                    "id": 674324,
+                    "media_type": "movie",
+                    "poster_path": "/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg",
+                    "title": "The Banshees of Inisherin"
+                },
+                {
+                    "id": 339877,
+                    "media_type": "movie",
+                    "poster_path": "/56sq57kDm7XgyXBYrgJLumo0Jac.jpg",
+                    "title": "Loving Vincent"
+                },
+                {
+                    "id": 61222,
+                    "media_type": "tv",
+                    "poster_path": "/6JFWzlChcGgLiIUo2COgNlWGFKy.jpg",
+                    "title": "Bojack Horseman"
+                },
+                {
+                    "id": 530385,
+                    "media_type": "movie",
+                    "poster_path": "/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg",
+                    "title": "Midsommar"
+                },
+                {
+                    "id": 550,
+                    "media_type": "movie",
+                    "poster_path": "/kW8vNzLuo6mvodB8J5TO0zTxBe9.jpg",
+                    "title": "Fight Club"
+                },
+                {
+                    "id": 87827,
+                    "media_type": "movie",
+                    "poster_path": "/iLgRu4hhSr6V1uManX6ukDriiSc.jpg",
+                    "title": "Life of Pi"
+                },
+                {
+                    "id": 579974,
+                    "media_type": "movie",
+                    "poster_path": "/ljHw5eIMnki3HekwkKwCCHsRSbH.jpg",
+                    "title": "RRR"
+                },
+                {
+                    "id": 389,
+                    "media_type": "movie",
+                    "poster_path": "/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+                    "title": "12 Angry Men"
+                },
+                {
+                    "id": 923939,
+                    "media_type": "movie",
+                    "poster_path": "/A4LTXT8MMZIr4aIwhE4qbGFivBo.jpg",
+                    "title": "The Wonderful Story of Henry Sugar"
+                },
+                {
+                    "id": 19885,
+                    "media_type": "tv",
+                    "poster_path": "/7WTsnHkbA0FaG6R9twfFde0I9hl.jpg",
+                    "title": "Sherlock"
+                },
+                {
+                    "id": 70523,
+                    "media_type": "tv",
+                    "poster_path": "/iSZAmDQHLRv0xXmpNRkizcPLanW.jpg",
+                    "title": "Dark"
+                },
+                {
+                    "id": 28178,
+                    "media_type": "movie",
+                    "poster_path": "/lsy3aEsEfYIHdLRk4dontZ4s85h.jpg",
+                    "title": "Hachi a Dog Tale"
+                },
+                {
+                    "id": 2649,
+                    "media_type": "movie",
+                    "poster_path": "/4UOa079915QjiTA2u5hT2yKVgUu.jpg",
+                    "title": "The Game"
+                },
+                {
+                    "id": 87108,
+                    "media_type": "tv",
+                    "poster_path": "/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+                    "title": "Chernobyl"
+                },
+                {
+                    "id": 37799,
+                    "media_type": "movie",
+                    "poster_path": "/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg",
+                    "title": "The Social Network"
+                },
+                {
+                    "id": 19995,
+                    "media_type": "movie",
+                    "poster_path": "/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
+                    "title": "Avatar"
+                },
+                {
+                    "id": 12405,
+                    "media_type": "movie",
+                    "poster_path": "/c6w9WarTTjbOhFFeAuiQ4Q3TRXK.jpg",
+                    "title": "Slumdog Millionaire"
+                },
+                {
+                    "id": 240832,
+                    "media_type": "movie",
+                    "poster_path": "/dhjyfcwEoW6jJ4Q7DpZTp6E58GA.jpg",
+                    "title": "Lucy"
+                },
+                {
+                    "id": 11324,
+                    "media_type": "movie",
+                    "poster_path": "/4GDy0PHYX3VRXUtwK5ysFbg3kEx.jpg",
+                    "title": "Shutter Island"
+                },
+                {
+                    "id": 205596,
+                    "media_type": "movie",
+                    "poster_path": "/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg",
+                    "title": "The Imitation Game"
+                },
+                {
+                    "id": 640,
+                    "media_type": "movie",
+                    "poster_path": "/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+                    "title": "Catch me if you can"
+                },
+                {
+                    "id": 591265,
+                    "media_type": "movie",
+                    "poster_path": "/ApbpSs3hah8O8YcBWGNDVmpFzbE.jpg",
+                    "title": "Timelapse of the Future"
+                },
+                {
+                    "id": 9475,
+                    "media_type": "movie",
+                    "poster_path": "/f75Fsfx8nA8JfSdJ61jhC8JwHps.jpg",
+                    "title": "Scent of a Woman"
+                },
+                {
+                    "id": 872585,
+                    "media_type": "movie",
+                    "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+                    "title": "Oppenheimer"
+                },
+                {
+                    "id": 266856,
+                    "media_type": "movie",
+                    "poster_path": "/wucOQrqihOtHToP7UAPKMFRJ9LL.jpg",
+                    "title": "The Theory of Everything"
+                },
+                {
+                    "id": 60948,
+                    "media_type": "tv",
+                    "poster_path": "/tPX5Jg29XSx05qNterYGYGKbh3o.jpg",
+                    "title": "12 Monkeys"
+                },
+                {
+                    "id": 1172676,
+                    "media_type": "movie",
+                    "poster_path": "/evgEvYCUGidCyUCxA77EUJiWpVQ.jpg",
+                    "title": "Poison"
+                },
+                {
+                    "id": 58574,
+                    "media_type": "movie",
+                    "poster_path": "/y1MYZkwhZK6L0Jy4YMuPktzDOfn.jpg",
+                    "title": "Sherlock Holmes 2"
+                },
+                {
+                    "id": 9654,
+                    "media_type": "movie",
+                    "poster_path": "/eSkjK4kctyrWpFhxl35GPvSs6tI.jpg",
+                    "title": "The Italian Job"
+                },
+                {
+                    "id": 522627,
+                    "media_type": "movie",
+                    "poster_path": "/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg",
+                    "title": "The Gentlemen"
+                },
+                {
+                    "id": 14160,
+                    "media_type": "movie",
+                    "poster_path": "/vpbaStTMt8qqXaEgnOR2EE4DNJk.jpg",
+                    "title": "Up"
+                },
+                {
+                    "id": 27205,
+                    "media_type": "movie",
+                    "poster_path": "/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg",
+                    "title": "Inception"
+                },
+                {
+                    "id": 10865,
+                    "media_type": "movie",
+                    "poster_path": "/8fUEFPUTF7kBMuKPiSQHxPvd8EZ.jpg",
+                    "title": "Atlantis The Lost Empire"
+                },
+                {
+                    "id": 278,
+                    "media_type": "movie",
+                    "poster_path": "/lyQBXzOQSuE59IsHyhrp0qIiPAz.jpg",
+                    "title": "Shawshank Redemption"
+                },
+                {
+                    "id": 1570,
+                    "media_type": "tv",
+                    "poster_path": "/nsdVuFcjB9ahhBUlkJyzXo0Pudq.jpg",
+                    "title": "The Aventures of Tintin"
+                },
+                {
+                    "id": 157336,
+                    "media_type": "movie",
+                    "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+                    "title": "Interstellar"
+                },
+                {
+                    "id": 37165,
+                    "media_type": "movie",
+                    "poster_path": "/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+                    "title": "The Truman Show"
+                },
+                {
+                    "id": 5156,
+                    "media_type": "movie",
+                    "poster_path": "/rLpveWO1hTNYF9LUZJZgTdq5nyf.jpg",
+                    "title": "Bicycle Thieves"
+                }
+            ]
+        },
+        {
+            "title": "Noor's Picks",
+            "data": [
+                {
+                    "id": 674324,
+                    "media_type": "movie",
+                    "poster_path": "/4yFG6cSPaCaPhyJ1vtGOtMD1lgh.jpg",
+                    "title": "The Banshees of Inisherin"
+                },
+                {
+                    "id": 122906,
+                    "poster_path": "/iR1bVfURbN7r1C46WHFbwCkVve.jpg",
+                    "media_type": "movie",
+                    "title": "About Time"
+                },
+                {
+                    "id": 314385,
+                    "poster_path": "/oEyeG4UyAQvYIJiFpUV57Q3PTDp.jpg",
+                    "media_type": "movie",
+                    "title": "By The Sea"
+                },
+                {
+                    "id": 70453,
+                    "media_type": "tv",
+                    "poster_path": "/1SGovj2qDdkJexvhFiXllj9EYfu.jpg",
+                    "title": "Sharp Objects"
+                },
+                {
+                    "id": 240667,
+                    "media_type": "tv",
+                    "poster_path": "/smBWt8rHCCavV88C5gQVjh0NUFa.jpg",
+                    "title": "One Day"
+                },
+                {
+                    "id": 1592,
+                    "title": "Primal Fear",
+                    "poster_path": "/qJf2TzE8nRTFbFMPJNW6c8mI0KU.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 391713,
+                    "media_type": "movie",
+                    "poster_path": "/gl66K7zRdtNYGrxyS2YDUP5ASZd.jpg",
+                    "title": "Lady Bird"
+                },
+                {
+                    "id": 359724,
+                    "media_type": "movie",
+                    "poster_path": "/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg",
+                    "title": "Ford v Ferrari"
+                },
+                {
+                    "id": 974576,
+                    "media_type": "movie",
+                    "poster_path": "/m5x8D0bZ3eKqIVWZ5y7TnZ2oTVg.jpg",
+                    "title": "Conclave"
+                },
+                {
+                    "id": 76331,
+                    "title": "Succession",
+                    "poster_path": "/gwCHn2zXHjtMNQYxAsoQs76B5Oa.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 965150,
+                    "media_type": "movie",
+                    "poster_path": "/evKz85EKouVbIr51zy5fOtpNRPg.jpg",
+                    "title": "Aftersun"
+                },
+                {
+                    "id": 615777,
+                    "media_type": "movie",
+                    "poster_path": "/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+                    "title": "Babylon"
+                },
+                {
+                    "id": 128098,
+                    "media_type": "tv",
+                    "poster_path": "/mQ0fbfc5ELwb2zjFZM4uwAnN3ee.jpg",
+                    "title": "Interview With The Vampire"
+                },
+                {
+                    "id": 12761,
+                    "media_type": "movie",
+                    "poster_path": "/6beNbtCXv3GkzHkxkGYf38ib7v8.jpg",
+                    "title": "Autumn Sonata"
+                },
+                {
+                    "id": 8967,
+                    "title": "The Tree Of Life",
+                    "poster_path": "/eGd9TelfedrKAJqv7wkRdgLJ6i2.jpg",
+                    "media_type": "movie"
+                },
+                {
+                    "id": 9919,
+                    "media_type": "movie",
+                    "poster_path": "/2dlftyPz7mTYbrsPvTogyFmYd7d.jpg",
+                    "title": "How To Lose A Guy In 10 Days"
+                },
+                {
+                    "id": 345,
+                    "media_type": "movie",
+                    "poster_path": "/knEIz1eNGl5MQDbrEAVWA7iRqF9.jpg",
+                    "title": "Eyes Wide Shut"
+                },
+                {
+                    "id": 112077,
+                    "title": "Scenes From a Marriage",
+                    "poster_path": "/wlsivaJuU6HScCFKcgv1cgtdmQt.jpg",
+                    "media_type": "tv"
+                },
+                {
+                    "id": 50646,
+                    "media_type": "movie",
+                    "poster_path": "/p4RafgAPk558muOjnBMHhMArjS2.jpg",
+                    "title": "Crazy, Stupid, Love"
+                },
+                {
+                    "id": 517814,
+                    "media_type": "movie",
+                    "poster_path": "/mFnfTVADj8yOxwzprYOmTPselk8.jpg",
+                    "title": "Capernaum"
+                }
+            ]
+        },
+        {
+            "title": "Faragski Productions",
+            "data": [
+                {
+                    "id": "laffa",
+                    "title": "Laffa",
+                    "poster_path": "/assets/laffa-poster.png",
+                    "media_type": "movie"
+                },
+                {
+                    "id": "betweenthe2",
+                    "title": "Between The Two",
+                    "poster_path": "/assets/betweenthe2-poster.png",
+                    "media_type": "movie"
+                },
+                {
+                    "id": "zeina",
+                    "title": "Zeina",
+                    "poster_path": "/assets/zeina-poster.png",
+                    "media_type": "movie"
+                }
+            ]
+        }
+    ]
+}

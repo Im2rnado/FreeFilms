@@ -1,0 +1,213 @@
+$background-color: #121212;
+$nav-bar-height: 70px;
+$footer-height: 140px;
+
+$primary-color: #0063e5;
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+  display: none;
+  opacity: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+body {
+  background-color: $background-color;
+  color: #fff;
+  height: 100vh;
+}
+
+#root {
+  height: 100%;
+}
+
+.page {
+  min-height: calc(100vh - ($footer-height + $nav-bar-height + 60px));
+
+  margin: 0 auto 0;
+  padding: 0 0 30px;
+}
+
+.home-alert-wrap {
+  margin: 0 auto 20px;
+  max-width: 90vw;
+}
+
+.home-alert {
+  padding: 10px 15px;
+  background-color: #B41CB5;
+  color: #fff;
+  border-radius: 10px;
+  filter: drop-shadow(0 0 10px rgba(0, 0, 0, .705));
+}
+
+.collections-overlap {
+  position: relative;
+  margin-top: -15vh;
+  z-index: 1;
+}
+
+.new-page {
+  min-height: calc(100vh - ($footer-height + $nav-bar-height + 70px));
+
+  margin: 0 auto 0;
+  padding: 85px 0 0;
+}
+
+.page-title {
+  font-size: 30px;
+  font-weight: 600;
+  margin-left: 5%;
+}
+
+.party {
+  all: unset;
+
+  padding: 4px;
+  border: 2px solid #b41cb5;
+  border-radius: 5px;
+
+  transition: opacity 150ms linear;
+}
+
+.notification {
+  position: fixed;
+  top: 18%;
+  right: 30px;
+  background-color: rgba(223, 92, 255, 0.95);
+  /* Matching the theme color */
+  color: white;
+  padding: 12px 20px;
+  border-radius: 5px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  animation: fadeIn 0.3s ease-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.chat-container {
+  width: 98%;
+  background-color: rgba(223, 92, 255, 0.95);
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.chat-messages {
+  overflow-y: auto;
+  margin-bottom: 10px;
+}
+
+.chat-message {
+  word-wrap: break-word;
+}
+
+.chat-message.you {
+  text-align: right;
+}
+
+.chat-message .sender {
+  font-weight: bold;
+}
+
+.chat-input {
+  display: flex;
+  flex-direction: column;
+}
+
+.chat-input input {
+  width: 91% !important;
+  border: none !important; 
+}
+
+.chat-input button {
+  background-color: #ffffff !important;
+  color: #b41cb5 !important;
+  padding: 5px 10px !important;
+  cursor: pointer !important;
+  font-size: medium !important;
+  font-weight: bold;
+}
+
+.chat-input button:hover {
+  background-color: #b41cb5 !important;
+  color: #fff !important;
+}
+
+.party {
+  all: unset;
+
+  padding: 4px;
+  border: 2px solid #b41cb5;
+  border-radius: 5px;
+
+  transition: opacity 150ms linear;
+}
+
+.party:hover {
+  background-color: #b41cb5;
+  color: #fff
+}
+
+.watch-party-dropdown {
+  padding: 15px;
+  padding-top: 0;
+  border-radius: 5px;
+  cursor: default;
+}
+
+.watch-party-dropdown input {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 8px;
+  border: none;
+  border-radius: 5px;
+}
+
+.watch-party-dropdown button {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 8px;
+  border: none;
+  border-radius: 5px;
+  background-color: #df5cff;
+  color: white;
+}
+
+.watch-party-dropdown button:disabled {
+  background-color: #888;
+  cursor: not-allowed;
+}
+
+@import "error";
+@import "footer";
+@import "hero";
+@import "loading";
+@import "media";
+@import "nav-bar";
+@import "player";
+@import "poster";
+@import "search";
